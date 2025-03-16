@@ -1,16 +1,5 @@
-# tp1
+# World of Clicker
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+API : 
+Mettre le dossier 'woc' contenu dans le dossier php dans le htdocs ou le dossier public_html 
+Il faut pouvoir y accerder via localhost/woc/
